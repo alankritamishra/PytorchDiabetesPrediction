@@ -18,4 +18,5 @@ Kindly head to https://pytorch.org/docs/master/nn.html to unvail the beauty of P
 
 The dataset can be dowlaoded from https://www.kaggle.com/uciml/pima-indians-diabetes-database
 I've analysed the dataset through visualization
-Thanks.
+
+Thanks for reading
